@@ -1,0 +1,10 @@
+Assignment name  : aff_a
+Expected files   : aff_a.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Escribe un programa que tome una cadena y muestre la primera 'a'
+carácter que encuentra en él, seguido de una nueva línea. si no hay
+caracteres 'a' en la cadena, el programa 😃️simplemente😃️ escribe una nueva línea.
+Si el número de parámetros no es 1, el programa muestra 'a'
+seguido de una nueva línea.
